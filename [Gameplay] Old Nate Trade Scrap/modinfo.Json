@@ -1,0 +1,55 @@
+{
+  "Version": "1.0",
+  "ModID": "Khobs_Scraptrading",
+  "IncompatibleIds": null,
+  "ModDependencies": null,
+  "Category": {
+    "Chinese": null,
+    "English": "Gameplay",
+    "French": "Jouabilité",
+    "German": "Spielablauf",
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "ModName": {
+    "Chinese": null,
+    "English": "Scrap trading",
+    "French": "Commerce de ferraille",
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "Description": {
+    "Chinese": null,
+    "English": "Old Nate can sell scrap, nice scrap and special scrap.",
+    "French": "Le Vieux Nate vend désormait tout type de feraille, à un prix.. abordable",
+    "German": null,
+    "Italian": null,
+    "Japanese": null,
+    "Korean": null,
+    "Polish": null,
+    "Russian": null,
+    "Spanish": null,
+    "Taiwanese": null
+  },
+  "KnownIssues": null,
+  "DLCDependencies": [
+    {
+      "DLC": "SunkenTreasures",
+      "Dependant": "atLeastOneRequired"
+    }
+  ],
+  "CreatorName": "Khobs",
+  "CreatorContact": "",
+  "Image" : null
+}
